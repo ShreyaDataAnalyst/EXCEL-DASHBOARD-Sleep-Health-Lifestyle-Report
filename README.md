@@ -51,7 +51,7 @@ Using Kaggle's dataset, I created an interactive Excel dashboard to analyze the 
 
 
 
-5) Males experience poorer sleep quality due to higher stress, less physical activity, and increased sleep disorders like Sleep Apnea.
+5) Female experience poorer sleep quality due to higher stress, less physical activity, and increased sleep disorders like Sleep Apnea.
 
 
 ![Screenshot 2024-11-04 104850](https://github.com/user-attachments/assets/305c699b-b32c-45fb-a04d-2ca739b6c27f)
