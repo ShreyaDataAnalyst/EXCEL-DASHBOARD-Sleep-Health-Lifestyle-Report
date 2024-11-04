@@ -1,8 +1,7 @@
 
 # EXCEL DASHBOARD: Sleep Health & Lifestyle Report
 
-
-![01](https://github.com/user-attachments/assets/793d259d-a896-4e21-a91b-e9ba4103b506)
+![Screenshot 2024-11-04 103637](https://github.com/user-attachments/assets/67b114a6-7628-4fe6-aa5c-a8d50673c33b)
 
 
 ## Project Overview
@@ -40,16 +39,20 @@ Using Kaggle's dataset, I created an interactive Excel dashboard to analyze the 
 3) Young adults (20-30) in stressful occupations with limited physical activity face poor sleep quality 👇🏻
 
 
-![02](https://github.com/user-attachments/assets/33137203-b70b-45be-8d86-9ff8e9e9c802)
+![Screenshot 2024-11-04 103720](https://github.com/user-attachments/assets/073a8ca6-0902-42fa-8d44-4ff7fb4fafe2)
+
+
 
 
 4) Sleep Disorder Prevalence: Insomnia peaks among 40-50-year-olds in stressful professions (e.g., Nurses, Salespersons).
 
 
-![03](https://github.com/user-attachments/assets/55a36ba2-8bef-4f4e-85e9-00d61b627375)
+![Screenshot 2024-11-04 103755](https://github.com/user-attachments/assets/e436bd55-f6ba-4947-8c87-f65a5bc63696)
+
 
 
 5) Males experience poorer sleep quality due to higher stress, less physical activity, and increased sleep disorders like Sleep Apnea.
 
 
-![04](https://github.com/user-attachments/assets/0b6c1f75-b8da-469f-842d-1150f4b7ee25)
+![Screenshot 2024-11-04 104850](https://github.com/user-attachments/assets/305c699b-b32c-45fb-a04d-2ca739b6c27f)
+
